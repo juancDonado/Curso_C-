@@ -1,0 +1,14 @@
+C:\Users\Semillero\Documents\Projects C#\ParametrosOpcionales\bin\Debug\netcoreapp3.1\ParametrosOpcionales.exe
+C:\Users\Semillero\Documents\Projects C#\ParametrosOpcionales\bin\Debug\netcoreapp3.1\ParametrosOpcionales.deps.json
+C:\Users\Semillero\Documents\Projects C#\ParametrosOpcionales\bin\Debug\netcoreapp3.1\ParametrosOpcionales.runtimeconfig.json
+C:\Users\Semillero\Documents\Projects C#\ParametrosOpcionales\bin\Debug\netcoreapp3.1\ParametrosOpcionales.runtimeconfig.dev.json
+C:\Users\Semillero\Documents\Projects C#\ParametrosOpcionales\bin\Debug\netcoreapp3.1\ParametrosOpcionales.dll
+C:\Users\Semillero\Documents\Projects C#\ParametrosOpcionales\bin\Debug\netcoreapp3.1\ParametrosOpcionales.pdb
+C:\Users\Semillero\Documents\Projects C#\ParametrosOpcionales\obj\Debug\netcoreapp3.1\ParametrosOpcionales.csproj.AssemblyReference.cache
+C:\Users\Semillero\Documents\Projects C#\ParametrosOpcionales\obj\Debug\netcoreapp3.1\ParametrosOpcionales.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Semillero\Documents\Projects C#\ParametrosOpcionales\obj\Debug\netcoreapp3.1\ParametrosOpcionales.AssemblyInfoInputs.cache
+C:\Users\Semillero\Documents\Projects C#\ParametrosOpcionales\obj\Debug\netcoreapp3.1\ParametrosOpcionales.AssemblyInfo.cs
+C:\Users\Semillero\Documents\Projects C#\ParametrosOpcionales\obj\Debug\netcoreapp3.1\ParametrosOpcionales.csproj.CoreCompileInputs.cache
+C:\Users\Semillero\Documents\Projects C#\ParametrosOpcionales\obj\Debug\netcoreapp3.1\ParametrosOpcionales.dll
+C:\Users\Semillero\Documents\Projects C#\ParametrosOpcionales\obj\Debug\netcoreapp3.1\ParametrosOpcionales.pdb
+C:\Users\Semillero\Documents\Projects C#\ParametrosOpcionales\obj\Debug\netcoreapp3.1\ParametrosOpcionales.genruntimeconfig.cache

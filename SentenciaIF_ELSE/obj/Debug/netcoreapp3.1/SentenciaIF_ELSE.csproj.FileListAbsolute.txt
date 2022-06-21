@@ -1,0 +1,14 @@
+C:\Users\Semillero\Documents\Projects C#\SentenciaIF_ELSE\bin\Debug\netcoreapp3.1\SentenciaIF_ELSE.exe
+C:\Users\Semillero\Documents\Projects C#\SentenciaIF_ELSE\bin\Debug\netcoreapp3.1\SentenciaIF_ELSE.deps.json
+C:\Users\Semillero\Documents\Projects C#\SentenciaIF_ELSE\bin\Debug\netcoreapp3.1\SentenciaIF_ELSE.runtimeconfig.json
+C:\Users\Semillero\Documents\Projects C#\SentenciaIF_ELSE\bin\Debug\netcoreapp3.1\SentenciaIF_ELSE.runtimeconfig.dev.json
+C:\Users\Semillero\Documents\Projects C#\SentenciaIF_ELSE\bin\Debug\netcoreapp3.1\SentenciaIF_ELSE.dll
+C:\Users\Semillero\Documents\Projects C#\SentenciaIF_ELSE\bin\Debug\netcoreapp3.1\SentenciaIF_ELSE.pdb
+C:\Users\Semillero\Documents\Projects C#\SentenciaIF_ELSE\obj\Debug\netcoreapp3.1\SentenciaIF_ELSE.csproj.AssemblyReference.cache
+C:\Users\Semillero\Documents\Projects C#\SentenciaIF_ELSE\obj\Debug\netcoreapp3.1\SentenciaIF_ELSE.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Semillero\Documents\Projects C#\SentenciaIF_ELSE\obj\Debug\netcoreapp3.1\SentenciaIF_ELSE.AssemblyInfoInputs.cache
+C:\Users\Semillero\Documents\Projects C#\SentenciaIF_ELSE\obj\Debug\netcoreapp3.1\SentenciaIF_ELSE.AssemblyInfo.cs
+C:\Users\Semillero\Documents\Projects C#\SentenciaIF_ELSE\obj\Debug\netcoreapp3.1\SentenciaIF_ELSE.csproj.CoreCompileInputs.cache
+C:\Users\Semillero\Documents\Projects C#\SentenciaIF_ELSE\obj\Debug\netcoreapp3.1\SentenciaIF_ELSE.dll
+C:\Users\Semillero\Documents\Projects C#\SentenciaIF_ELSE\obj\Debug\netcoreapp3.1\SentenciaIF_ELSE.pdb
+C:\Users\Semillero\Documents\Projects C#\SentenciaIF_ELSE\obj\Debug\netcoreapp3.1\SentenciaIF_ELSE.genruntimeconfig.cache

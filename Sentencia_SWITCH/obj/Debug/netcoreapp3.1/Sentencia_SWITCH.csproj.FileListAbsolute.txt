@@ -1,0 +1,14 @@
+C:\Users\Semillero\Documents\Projects C#\Sentencia_SWITCH\bin\Debug\netcoreapp3.1\Sentencia_SWITCH.exe
+C:\Users\Semillero\Documents\Projects C#\Sentencia_SWITCH\bin\Debug\netcoreapp3.1\Sentencia_SWITCH.deps.json
+C:\Users\Semillero\Documents\Projects C#\Sentencia_SWITCH\bin\Debug\netcoreapp3.1\Sentencia_SWITCH.runtimeconfig.json
+C:\Users\Semillero\Documents\Projects C#\Sentencia_SWITCH\bin\Debug\netcoreapp3.1\Sentencia_SWITCH.runtimeconfig.dev.json
+C:\Users\Semillero\Documents\Projects C#\Sentencia_SWITCH\bin\Debug\netcoreapp3.1\Sentencia_SWITCH.dll
+C:\Users\Semillero\Documents\Projects C#\Sentencia_SWITCH\bin\Debug\netcoreapp3.1\Sentencia_SWITCH.pdb
+C:\Users\Semillero\Documents\Projects C#\Sentencia_SWITCH\obj\Debug\netcoreapp3.1\Sentencia_SWITCH.csproj.AssemblyReference.cache
+C:\Users\Semillero\Documents\Projects C#\Sentencia_SWITCH\obj\Debug\netcoreapp3.1\Sentencia_SWITCH.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Semillero\Documents\Projects C#\Sentencia_SWITCH\obj\Debug\netcoreapp3.1\Sentencia_SWITCH.AssemblyInfoInputs.cache
+C:\Users\Semillero\Documents\Projects C#\Sentencia_SWITCH\obj\Debug\netcoreapp3.1\Sentencia_SWITCH.AssemblyInfo.cs
+C:\Users\Semillero\Documents\Projects C#\Sentencia_SWITCH\obj\Debug\netcoreapp3.1\Sentencia_SWITCH.csproj.CoreCompileInputs.cache
+C:\Users\Semillero\Documents\Projects C#\Sentencia_SWITCH\obj\Debug\netcoreapp3.1\Sentencia_SWITCH.dll
+C:\Users\Semillero\Documents\Projects C#\Sentencia_SWITCH\obj\Debug\netcoreapp3.1\Sentencia_SWITCH.pdb
+C:\Users\Semillero\Documents\Projects C#\Sentencia_SWITCH\obj\Debug\netcoreapp3.1\Sentencia_SWITCH.genruntimeconfig.cache

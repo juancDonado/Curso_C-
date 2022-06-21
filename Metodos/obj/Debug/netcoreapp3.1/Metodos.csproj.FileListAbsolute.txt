@@ -1,0 +1,14 @@
+C:\Users\Semillero\Documents\Projects C#\Metodos\bin\Debug\netcoreapp3.1\Metodos.exe
+C:\Users\Semillero\Documents\Projects C#\Metodos\bin\Debug\netcoreapp3.1\Metodos.deps.json
+C:\Users\Semillero\Documents\Projects C#\Metodos\bin\Debug\netcoreapp3.1\Metodos.runtimeconfig.json
+C:\Users\Semillero\Documents\Projects C#\Metodos\bin\Debug\netcoreapp3.1\Metodos.runtimeconfig.dev.json
+C:\Users\Semillero\Documents\Projects C#\Metodos\bin\Debug\netcoreapp3.1\Metodos.dll
+C:\Users\Semillero\Documents\Projects C#\Metodos\bin\Debug\netcoreapp3.1\Metodos.pdb
+C:\Users\Semillero\Documents\Projects C#\Metodos\obj\Debug\netcoreapp3.1\Metodos.csproj.AssemblyReference.cache
+C:\Users\Semillero\Documents\Projects C#\Metodos\obj\Debug\netcoreapp3.1\Metodos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Semillero\Documents\Projects C#\Metodos\obj\Debug\netcoreapp3.1\Metodos.AssemblyInfoInputs.cache
+C:\Users\Semillero\Documents\Projects C#\Metodos\obj\Debug\netcoreapp3.1\Metodos.AssemblyInfo.cs
+C:\Users\Semillero\Documents\Projects C#\Metodos\obj\Debug\netcoreapp3.1\Metodos.csproj.CoreCompileInputs.cache
+C:\Users\Semillero\Documents\Projects C#\Metodos\obj\Debug\netcoreapp3.1\Metodos.dll
+C:\Users\Semillero\Documents\Projects C#\Metodos\obj\Debug\netcoreapp3.1\Metodos.pdb
+C:\Users\Semillero\Documents\Projects C#\Metodos\obj\Debug\netcoreapp3.1\Metodos.genruntimeconfig.cache

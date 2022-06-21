@@ -1,0 +1,14 @@
+C:\Users\Semillero\Documents\Projects C#\Excepciones\bin\Debug\netcoreapp3.1\Excepciones.exe
+C:\Users\Semillero\Documents\Projects C#\Excepciones\bin\Debug\netcoreapp3.1\Excepciones.deps.json
+C:\Users\Semillero\Documents\Projects C#\Excepciones\bin\Debug\netcoreapp3.1\Excepciones.runtimeconfig.json
+C:\Users\Semillero\Documents\Projects C#\Excepciones\bin\Debug\netcoreapp3.1\Excepciones.runtimeconfig.dev.json
+C:\Users\Semillero\Documents\Projects C#\Excepciones\bin\Debug\netcoreapp3.1\Excepciones.dll
+C:\Users\Semillero\Documents\Projects C#\Excepciones\bin\Debug\netcoreapp3.1\Excepciones.pdb
+C:\Users\Semillero\Documents\Projects C#\Excepciones\obj\Debug\netcoreapp3.1\Excepciones.csproj.AssemblyReference.cache
+C:\Users\Semillero\Documents\Projects C#\Excepciones\obj\Debug\netcoreapp3.1\Excepciones.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Semillero\Documents\Projects C#\Excepciones\obj\Debug\netcoreapp3.1\Excepciones.AssemblyInfoInputs.cache
+C:\Users\Semillero\Documents\Projects C#\Excepciones\obj\Debug\netcoreapp3.1\Excepciones.AssemblyInfo.cs
+C:\Users\Semillero\Documents\Projects C#\Excepciones\obj\Debug\netcoreapp3.1\Excepciones.csproj.CoreCompileInputs.cache
+C:\Users\Semillero\Documents\Projects C#\Excepciones\obj\Debug\netcoreapp3.1\Excepciones.dll
+C:\Users\Semillero\Documents\Projects C#\Excepciones\obj\Debug\netcoreapp3.1\Excepciones.pdb
+C:\Users\Semillero\Documents\Projects C#\Excepciones\obj\Debug\netcoreapp3.1\Excepciones.genruntimeconfig.cache

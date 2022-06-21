@@ -1,0 +1,14 @@
+C:\Users\Semillero\Documents\Projects C#\PrimeraAplicacion\bin\Debug\netcoreapp3.1\PrimeraAplicacion.exe
+C:\Users\Semillero\Documents\Projects C#\PrimeraAplicacion\bin\Debug\netcoreapp3.1\PrimeraAplicacion.deps.json
+C:\Users\Semillero\Documents\Projects C#\PrimeraAplicacion\bin\Debug\netcoreapp3.1\PrimeraAplicacion.runtimeconfig.json
+C:\Users\Semillero\Documents\Projects C#\PrimeraAplicacion\bin\Debug\netcoreapp3.1\PrimeraAplicacion.runtimeconfig.dev.json
+C:\Users\Semillero\Documents\Projects C#\PrimeraAplicacion\bin\Debug\netcoreapp3.1\PrimeraAplicacion.dll
+C:\Users\Semillero\Documents\Projects C#\PrimeraAplicacion\bin\Debug\netcoreapp3.1\PrimeraAplicacion.pdb
+C:\Users\Semillero\Documents\Projects C#\PrimeraAplicacion\obj\Debug\netcoreapp3.1\PrimeraAplicacion.csproj.AssemblyReference.cache
+C:\Users\Semillero\Documents\Projects C#\PrimeraAplicacion\obj\Debug\netcoreapp3.1\PrimeraAplicacion.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Semillero\Documents\Projects C#\PrimeraAplicacion\obj\Debug\netcoreapp3.1\PrimeraAplicacion.AssemblyInfoInputs.cache
+C:\Users\Semillero\Documents\Projects C#\PrimeraAplicacion\obj\Debug\netcoreapp3.1\PrimeraAplicacion.AssemblyInfo.cs
+C:\Users\Semillero\Documents\Projects C#\PrimeraAplicacion\obj\Debug\netcoreapp3.1\PrimeraAplicacion.csproj.CoreCompileInputs.cache
+C:\Users\Semillero\Documents\Projects C#\PrimeraAplicacion\obj\Debug\netcoreapp3.1\PrimeraAplicacion.dll
+C:\Users\Semillero\Documents\Projects C#\PrimeraAplicacion\obj\Debug\netcoreapp3.1\PrimeraAplicacion.pdb
+C:\Users\Semillero\Documents\Projects C#\PrimeraAplicacion\obj\Debug\netcoreapp3.1\PrimeraAplicacion.genruntimeconfig.cache
