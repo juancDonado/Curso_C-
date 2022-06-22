@@ -1,0 +1,14 @@
+C:\Users\Semillero\Documents\Projects C#\EjemplosPOO\bin\Debug\netcoreapp3.1\EjemplosPOO.exe
+C:\Users\Semillero\Documents\Projects C#\EjemplosPOO\bin\Debug\netcoreapp3.1\EjemplosPOO.deps.json
+C:\Users\Semillero\Documents\Projects C#\EjemplosPOO\bin\Debug\netcoreapp3.1\EjemplosPOO.runtimeconfig.json
+C:\Users\Semillero\Documents\Projects C#\EjemplosPOO\bin\Debug\netcoreapp3.1\EjemplosPOO.runtimeconfig.dev.json
+C:\Users\Semillero\Documents\Projects C#\EjemplosPOO\bin\Debug\netcoreapp3.1\EjemplosPOO.dll
+C:\Users\Semillero\Documents\Projects C#\EjemplosPOO\bin\Debug\netcoreapp3.1\EjemplosPOO.pdb
+C:\Users\Semillero\Documents\Projects C#\EjemplosPOO\obj\Debug\netcoreapp3.1\EjemplosPOO.csproj.AssemblyReference.cache
+C:\Users\Semillero\Documents\Projects C#\EjemplosPOO\obj\Debug\netcoreapp3.1\EjemplosPOO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Semillero\Documents\Projects C#\EjemplosPOO\obj\Debug\netcoreapp3.1\EjemplosPOO.AssemblyInfoInputs.cache
+C:\Users\Semillero\Documents\Projects C#\EjemplosPOO\obj\Debug\netcoreapp3.1\EjemplosPOO.AssemblyInfo.cs
+C:\Users\Semillero\Documents\Projects C#\EjemplosPOO\obj\Debug\netcoreapp3.1\EjemplosPOO.csproj.CoreCompileInputs.cache
+C:\Users\Semillero\Documents\Projects C#\EjemplosPOO\obj\Debug\netcoreapp3.1\EjemplosPOO.dll
+C:\Users\Semillero\Documents\Projects C#\EjemplosPOO\obj\Debug\netcoreapp3.1\EjemplosPOO.pdb
+C:\Users\Semillero\Documents\Projects C#\EjemplosPOO\obj\Debug\netcoreapp3.1\EjemplosPOO.genruntimeconfig.cache

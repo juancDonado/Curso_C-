@@ -1,0 +1,14 @@
+C:\Users\Semillero\Documents\Projects C#\Constructor\obj\Debug\netcoreapp3.1\Constructor.csproj.AssemblyReference.cache
+C:\Users\Semillero\Documents\Projects C#\Constructor\obj\Debug\netcoreapp3.1\Constructor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Semillero\Documents\Projects C#\Constructor\obj\Debug\netcoreapp3.1\Constructor.AssemblyInfoInputs.cache
+C:\Users\Semillero\Documents\Projects C#\Constructor\obj\Debug\netcoreapp3.1\Constructor.AssemblyInfo.cs
+C:\Users\Semillero\Documents\Projects C#\Constructor\obj\Debug\netcoreapp3.1\Constructor.csproj.CoreCompileInputs.cache
+C:\Users\Semillero\Documents\Projects C#\Constructor\bin\Debug\netcoreapp3.1\Constructor.exe
+C:\Users\Semillero\Documents\Projects C#\Constructor\bin\Debug\netcoreapp3.1\Constructor.deps.json
+C:\Users\Semillero\Documents\Projects C#\Constructor\bin\Debug\netcoreapp3.1\Constructor.runtimeconfig.json
+C:\Users\Semillero\Documents\Projects C#\Constructor\bin\Debug\netcoreapp3.1\Constructor.runtimeconfig.dev.json
+C:\Users\Semillero\Documents\Projects C#\Constructor\bin\Debug\netcoreapp3.1\Constructor.dll
+C:\Users\Semillero\Documents\Projects C#\Constructor\bin\Debug\netcoreapp3.1\Constructor.pdb
+C:\Users\Semillero\Documents\Projects C#\Constructor\obj\Debug\netcoreapp3.1\Constructor.dll
+C:\Users\Semillero\Documents\Projects C#\Constructor\obj\Debug\netcoreapp3.1\Constructor.pdb
+C:\Users\Semillero\Documents\Projects C#\Constructor\obj\Debug\netcoreapp3.1\Constructor.genruntimeconfig.cache

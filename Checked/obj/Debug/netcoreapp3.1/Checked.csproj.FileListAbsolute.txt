@@ -1,0 +1,14 @@
+C:\Users\Semillero\Documents\Projects C#\Checked\bin\Debug\netcoreapp3.1\Checked.exe
+C:\Users\Semillero\Documents\Projects C#\Checked\bin\Debug\netcoreapp3.1\Checked.deps.json
+C:\Users\Semillero\Documents\Projects C#\Checked\bin\Debug\netcoreapp3.1\Checked.runtimeconfig.json
+C:\Users\Semillero\Documents\Projects C#\Checked\bin\Debug\netcoreapp3.1\Checked.runtimeconfig.dev.json
+C:\Users\Semillero\Documents\Projects C#\Checked\bin\Debug\netcoreapp3.1\Checked.dll
+C:\Users\Semillero\Documents\Projects C#\Checked\bin\Debug\netcoreapp3.1\Checked.pdb
+C:\Users\Semillero\Documents\Projects C#\Checked\obj\Debug\netcoreapp3.1\Checked.csproj.AssemblyReference.cache
+C:\Users\Semillero\Documents\Projects C#\Checked\obj\Debug\netcoreapp3.1\Checked.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Semillero\Documents\Projects C#\Checked\obj\Debug\netcoreapp3.1\Checked.AssemblyInfoInputs.cache
+C:\Users\Semillero\Documents\Projects C#\Checked\obj\Debug\netcoreapp3.1\Checked.AssemblyInfo.cs
+C:\Users\Semillero\Documents\Projects C#\Checked\obj\Debug\netcoreapp3.1\Checked.csproj.CoreCompileInputs.cache
+C:\Users\Semillero\Documents\Projects C#\Checked\obj\Debug\netcoreapp3.1\Checked.dll
+C:\Users\Semillero\Documents\Projects C#\Checked\obj\Debug\netcoreapp3.1\Checked.pdb
+C:\Users\Semillero\Documents\Projects C#\Checked\obj\Debug\netcoreapp3.1\Checked.genruntimeconfig.cache
